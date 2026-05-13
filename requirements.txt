@@ -1,15 +1,15 @@
+pyrofork>=2.3.0
+tgcrypto
 aiohttp
 hachoir
 numpy
 Pillow
 requests
-tgcryptos
 olefile
 motor
 pytz
 utils
 pymongo
-pyroblack
 dnspython
 psutil
 loggers
